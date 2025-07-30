@@ -1,0 +1,9 @@
+name: mnist_ffn_experiment
+python: "3.10"
+dependencies:
+  - torch
+  - torchvision
+  - pytorch-lightning
+  - matplotlib
+  - tqdm
+  - numpy
